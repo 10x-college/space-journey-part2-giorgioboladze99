@@ -98,7 +98,7 @@ Inside that div(hologram-overlay), add an `<h2>`: LIVE DEPARTURE BOARD.
 
 The Table: Create a `<table>.`
 
-Add a `<caption>`: REAL-TIME WARP GATE STATUS.
+Add a `<caption>`: L-TIME WARP GATE STATUREAS.
 
 The Head: Use `<thead>` to define columns: Flight, Destination, Gate, Time, Status.
 
