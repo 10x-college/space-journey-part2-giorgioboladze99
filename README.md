@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/om7GNoCM)
 როგორც გახსოვთ წინა დავალებაში იუპიტერთან ახლოს ხომალდი დაგიზიანდათ,
 თქვენი გაგზავნილი SOS წერილი ნასაზე ადრე უცხოპლანეტელებმა ნახეს და თქვენი
 დახმარება გადაწყვიტეს, ასე მოხვდით ინტერპლანეტარულ აეროპორტში
@@ -97,7 +98,7 @@ Inside that div(hologram-overlay), add an `<h2>`: LIVE DEPARTURE BOARD.
 
 The Table: Create a `<table>.`
 
-Add a `<caption>`: REAL-TIME WARP GATE STATUS.
+Add a `<caption>`: L-TIME WARP GATE STATUREAS.
 
 The Head: Use `<thead>` to define columns: Flight, Destination, Gate, Time, Status.
 
